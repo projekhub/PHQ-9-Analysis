@@ -21,8 +21,7 @@ Proyek ini merupakan analisis eksploratif untuk memahami tingkat keparahan depre
 ## Tools
 - Python  
 - Pandas  
-- Matplotlib
-- Jupyter Google Colab  
+- Matplotlib & Seaborn
 
 ## Catatan
 Analisis ini bersifat eksploratif dan bertujuan untuk pembelajaran serta pengembangan portofolio. Hasil analisis tidak dimaksudkan sebagai alat diagnosis klinis.
